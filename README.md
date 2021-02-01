@@ -216,6 +216,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [pivta](https://github.com/feddelegrand7/pivta) - R wrapper for WebDataRocks, an interactive pivot table component for data analysis.
 - [excelR](https://github.com/Swechhya/excelR) - R interface to the jExcel.js library.
 - [RXSpreadsheet](https://github.com/MichaelHogers/RXSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
+- [shinymodules](https://github.com/datastorm-open/shinymodules) - Provide shiny modules to build quickly an ergonomic tool to explore a table
 
 ### Drawers
 
@@ -228,6 +229,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [dragulaR](https://github.com/zzawadz/dragulaR) - R interface for the dragula JavaScript library for moving around elements in Shiny apps.
 - [dndselectr](https://github.com/serenity-r/dndselectr) - Drag-and-drop Shiny select input.
 - [esquisse](https://github.com/dreamRs/esquisse) - Drag and drop inputs and visual builder for ggplot2.
+- [shinypivottabler](https://github.com/datastorm-open/shinypivottabler) - Add a simple and useful Shiny module to build, visualize, customize and export custom pivot tables.
 
 ### Text
 
@@ -307,6 +309,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
 - [pagemapR](https://github.com/swsoyee/pagemapR) - Create a mini map for Shiny apps and R Markdown documents.
 - [keys](https://github.com/r4fun/keys) - Assign and listen to keyboard shortcuts in Shiny using the Mousetrap Javascript library.
+- [shinydrive](https://github.com/datastorm-open/shinydrive) - R package with a simple Shiny module for easily sharing files.
 
 ## Visualization
 
@@ -506,6 +509,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Job Scheduling
 
 - [cronR](https://github.com/bnosac/cronR) - R package for managing cron jobs.
+- [shinybatch](https://github.com/datastorm-open/shinybatch) - A simple framework to create, launch automatically and retrieve time-consuming operations (tasks) in batch mode from a Shiny app.
 
 ### Web APIs Integration
 
